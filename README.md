@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [https://your-link.streamlit.app](https://fraud-detection-app-mifvbksouxdxed2xbk7hme.streamlit.app/)
+🔗 https://fraud-detection-app-mifvbksouxdxed2xbk7hme.streamlit.app/
 
 ---
 
